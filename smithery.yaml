@@ -1,0 +1,22 @@
+name: privacyforge-mcp
+displayName: PrivacyForge - Autonomous GDPR, Privacy Policy & SaaS Compliance MCP
+description: Universal legal compliance, GDPR/CCPA privacy policy & SaaS terms generator for Cursor, Claude Code & Windsurf. Generates lawyer-grade Privacy Policies (covering AI data flows), Terms of Service with liability caps, Data Processing Addendums (DPA), and accessible React Cookie Consent components.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/privacyforge-mcp
+repository: https://github.com/AmyGraphics/privacyforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/privacyforge-mcp/main/icon.png
+keywords:
+  - gdpr
+  - privacy-policy
+  - terms-of-service
+  - compliance
+  - cookie-consent
+  - dpa
+  - legal-tech
+  - saas
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://privacyforge-api.agentweb-hub.workers.dev/mcp
