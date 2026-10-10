@@ -13,6 +13,12 @@ Universal Autonomous GDPR, SaaS Privacy Policy, Terms of Service & Cookie Consen
 `https://privacyforge-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live Tool: `audit_privacy_signals_live`
+
+Fetches any live URL and audits real privacy signals: cookies set before consent, known tracker signatures in the delivered HTML, consent-banner detection, and prioritized compliance fixes.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
